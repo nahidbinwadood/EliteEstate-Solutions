@@ -1,0 +1,45 @@
+[
+    {
+      "property_image":["https://i.imgur.com/cins6EA.jpeg","https://i.imgur.com/sL4Z4Lr.png","https://i.imgur.com/oeDBuML.png","https://i.imgur.com/yDoFIBA.png","https://i.imgur.com/gEgiYfy.jpeg"] ,
+      "property_location": "New York, NY",
+      "price_range": "$750,000 - $1,000,000",
+      "verification_status": "Verified",
+      "details_button": "View Details"
+    },
+    {
+      "property_image": ["https://i.imgur.com/d5wk9bN.jpg","https://i.imgur.com/ElvEv8D.jpg","https://i.imgur.com/PVgFgfU.jpg","https://i.imgur.com/xUnnePs.jpg","https://i.imgur.com/Qb3DNs7.jpg"],
+      "property_location": "Los Angeles, CA",
+      "price_range": "$1,200,000 - $1,500,000",
+      "verification_status": "Verified",
+      "details_button": "View Details"
+    },
+    {
+      "property_image": ["https://i.imgur.com/PYppcMI.jpeg","https://i.imgur.com/LL3Yc7R.jpeg","https://i.imgur.com/UWT6s9w.jpeg","https://i.imgur.com/m6DKRK7.jpeg","https://i.imgur.com/yam86MD.jpeg"],
+      "property_location": "Miami, FL",
+      "price_range": "$2,000,000 - $3,000,000",
+      "verification_status": "Verified",
+      "details_button": "View Details"
+    },
+    {
+      "property_image": ["https://i.imgur.com/bqUxyjD.jpeg","https://i.imgur.com/5QBEIz4.jpeg","https://i.imgur.com/NCMIin8.jpeg","https://i.imgur.com/5OC3065.jpeg","https://i.imgur.com/4jrzfm3.jpeg"],
+      "property_location": "Chicago, IL",
+      "price_range": "$600,000 - $850,000",
+      "verification_status": "Verified",
+      "details_button": "View Details"
+    },
+    {
+      "property_image": ["https://i.imgur.com/QOedIO5.jpeg","https://i.imgur.com/Vi0bc2R.jpeg","https://i.imgur.com/CBFeU2C.jpeg","https://i.imgur.com/XO6LlGa.jpeg","https://i.imgur.com/RDS7puW.jpeg"],
+      "property_location": "San Francisco, CA",
+      "price_range": "$1,800,000 - $2,500,000",
+      "verification_status": "Verified",
+      "details_button": "View Details"
+    },
+    {
+      "property_image": ["https://i.imgur.com/1XEhwNr.jpeg","https://i.imgur.com/XlgMiyS.jpeg","https://i.imgur.com/831abir.jpeg","https://i.imgur.com/pwa2tqE.jpeg","https://i.imgur.com/2sPkXf9.jpeg"],
+      "property_location": "Austin, TX",
+      "price_range": "$900,000 - $1,200,000",
+      "verification_status": "Verified",
+      "details_button": "View Details"
+    }
+  ]
+  

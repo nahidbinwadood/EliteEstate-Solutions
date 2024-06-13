@@ -1,0 +1,27 @@
+[
+    {
+      "reviewer_name": "John Smith",
+      "reviewer_image": "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-1/439011287_2066347377098548_8157686076250003447_n.jpg?stp=c0.18.160.160a_dst-jpg_p160x160&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFoPHVS4MuUjKpaqCTRTXs49jcT3sWeuaL2NxPexZ65ouVvTeRM_qclM__aZCXcZCV-WlHLC1H49ESy2oFGMoYx&_nc_ohc=32slVQb3MGMQ7kNvgFLufZa&_nc_ht=scontent.fdac5-1.fna&oh=00_AYCYX_E5kQRASpwMuvjbTyX9z9GGJ2XrSt3It7qu_EkQ1w&oe=66623E8B",
+      "review_description": "Exceptional service! The team at ABC Realty made the home buying process smooth and stress-free. Their attention to detail and professionalism exceeded my expectations.",
+      "property_title": "Luxurious Penthouse"
+    },
+    {
+      "reviewer_name": "Emily Johnson",
+      "reviewer_image": "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/436367663_1165019028010007_7125120390967374337_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGZih88j5UbKi1RmxuWw-IHktYDZD11E56S1gNkPXUTnseQUfcreMAV1Mh7TrwgDYuZ7wwolzdYr-sodcjKHiUq&_nc_ohc=Z0Se8bhq-eIQ7kNvgGRn3kr&_nc_ht=scontent.fdac5-2.fna&oh=00_AYA2ONXBY3c3V-GwTJ6oyNN6Bx9j9SKOWyieIVgJynm53A&oe=66623E59",
+      "review_description": "Highly recommend! ABC Realty helped us find our dream home in a great neighborhood. They were patient, knowledgeable, and always available to answer our questions.",
+      "property_title": "Charming Family Home"
+    },
+    {
+      "reviewer_name": "Michael Brown",
+      "reviewer_image": "https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/435543250_2464373980438203_4077564670327065108_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFnAoDzm1qG87N53WoZ2WfKCKEP0N_E95IIoQ_Q38T3kij_dvmcolbb_yYwjVU75Jrf5USDaGqmiRjkNBcpolaM&_nc_ohc=TMef5o5roz0Q7kNvgGN3rMw&_nc_ht=scontent.fdac5-1.fna&oh=00_AYDyPJeCzqJlxyRNPQWhgH0OSgQDs0s256Ld1N3TWLXGvw&oe=666243AF",
+      "review_description": "Outstanding experience! ABC Realty went above and beyond to sell our property quickly and at a great price. Their expertise and dedication were impressive.",
+      "property_title": "Spacious Country Estate"
+  },
+    {
+      "reviewer_name": "Sarah Martinez",
+      "reviewer_image": "https://scontent.fdac5-2.fna.fbcdn.net/v/t39.30808-6/440320983_7646205785457768_5094709450895165608_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG9vB7CLphGK0P7o_xJxf0JL_hL0LwoLzEv-EvQvCgvMVmIzeC4E3MiwOFYG2AzafVjRZpagerB1eFVA8dv8q1P&_nc_ohc=CLTfIi1WoCIQ7kNvgF1LBdL&_nc_ht=scontent.fdac5-2.fna&oh=00_AYBkvFO6QTy0DMBzNj6SAVUnzj6dG_Z3NoByhIlKrz_y6w&oe=666221EE",
+      "review_description": "Fantastic service! ABC Realty helped us navigate the complex real estate market with ease. We found the perfect investment property thanks to their guidance.",
+      "property_title": "Modern City Apartment"
+    }
+  ]
+  
