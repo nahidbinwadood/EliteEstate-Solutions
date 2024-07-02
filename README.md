@@ -5,22 +5,15 @@ Live Site :
 
 Overview:
 Developed a comprehensive Real Estate platform where users can buy properties and agents can list and sell properties. Features role-specific dashboards, secure transactions and administrative controls for property approvals and fraud detection.
+EliteEstate Solutions is a Real Estte Platform where will have different type of users.The norml users can see all the verified listed property of agents which is verified by the admins.In Homepage, there are some  advertisements of some top rated flats to sale.A user can add to wishlist to buy a property he/she like.The user can make an offer from the wishlist section in dashboard.Each user will have different types of dashboard here.If the offer accepted by the agent the the user can pay through "stripe" and the property will be listed as sold.If any agents betrays and any user report that agent then the admins can make the agent as fraud so that fruad cannot post any properties and the proerties will be removed automatically.
 
-Features and Characteristics :
-- Three different types of user functionality
-- User Friendly
-- User can add a property to wishlist 
-- User can offer a price for property
-- Agent can  reject or accept make the offer and proceed to buy
-- Agent can  reject or accept make the offer and proceed to buy
-- Agent can  post a property for sale
-- Admin has ability to verify or reject the agent's property
-- Admin has can mark a agent fraud if he betrays
-- Admin has remove a user or agent from this website
-- A user can give reviews for a specific property
-- A user can buy a property through payment
-- Agent can sell all the sold properties
-- Admin can handle all the properties,users,reviews and can advertise property
+Key Features:
+- Wishlist and Offers: Users can add properties to their wishlist and make offers.
+ - Property Sales: Agents can sell properties to the highest bidder.
+- Secure Payments: Integrated Stripe for secure payment processing.
+- Property Management: Agents add and update properties; listings require admin approval.
+- Fraud Detection: Admins can mark agents as fraudulent; banned users can't add/sell properties.
+- Reviews: Users can review for a particular property they like .This review will available in details page and homepage.
  
  
 
