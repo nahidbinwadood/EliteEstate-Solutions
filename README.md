@@ -4,8 +4,7 @@ Live Site :
 -[EliteEstate Solutions](https://eliteestate-solutions.web.app/)
 
 Overview:
-Developed a comprehensive Real Estate platform where users can buy properties and agents can list and sell properties. Features role-specific dashboards, secure transactions and administrative controls for property approvals and fraud detection.
-EliteEstate Solutions is a Real Estte Platform where will have different type of users.The norml users can see all the verified listed property of agents which is verified by the admins.In Homepage, there are some  advertisements of some top rated flats to sale.A user can add to wishlist to buy a property he/she like.The user can make an offer from the wishlist section in dashboard.Each user will have different types of dashboard here.If the offer accepted by the agent the the user can pay through "stripe" and the property will be listed as sold.If any agents betrays and any user report that agent then the admins can make the agent as fraud so that fruad cannot post any properties and the proerties will be removed automatically.
+EliteEstate Solutions is a Real Estate platform enabling users to browse verified property listings, add to wishlist, and make offers. Agents can list properties with administrative approval and secure transactions via Stripe. Admins manage fraud detection, marking dishonest agents to prevent further listings, ensuring a trustworthy environment. This platform solves issues of fraudulent listings, insecure transactions, and provides streamlined property management for users and agents alike.
 
 Key Features:
 - Wishlist and Offers: Users can add properties to their wishlist and make offers.
