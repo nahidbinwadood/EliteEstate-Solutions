@@ -3,6 +3,9 @@
 Live Site : 
 -[EliteEstate Solutions](https://eliteestate-solutions.web.app/)
 
+Overview:
+Developed a comprehensive Real Estate platform where users can buy properties and agents can list and sell properties. Features role-specific dashboards, secure transactions and administrative controls for property approvals and fraud detection.
+
 Features and Characteristics :
 - Three different types of user functionality
 - User Friendly
