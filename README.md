@@ -15,7 +15,49 @@ Key Features:
 - Fraud Detection: Admins can mark agents as fraudulent; banned users can't add/sell properties.
 - Reviews: Users can review for a particular property they like .This review will available in details page and homepage.
  
- 
+ Used Technology:
+- Frontend: HTML,CSS3,TailwindCSS,Material Tailwind,React,React Router.
+- Backend: NodeJs,MongoDb,ExpressJs
+
+**Installation** :
+
+
+- Client-Side :
+
+**Cloning the Repository**
+```bash
+git clone https://github.com/nahidbinwadood/EliteEstate-Solutions.git
+cd client
+```
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Client-side**
+
+```bash
+npm run dev
+```
+
+- Server Side :
+```bash
+cd server
+```
+
+Install the project dependencies using npm:
+
+```bash
+npm install
+```
+
+**Running the Server-side**
+
+```bash
+nodemonindex.js
+```
 
 Resources:
 - [React Router](https://reactrouter.com/en/main)
